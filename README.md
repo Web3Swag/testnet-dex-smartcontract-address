@@ -43,6 +43,36 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | AVAX    | INIT_CODE_HASH      | `0x4dc90378a435b2d29be9cf9cc915f9d7c193234f478d6845a429befe95cbaf2d` |
 | AVAX    | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
 
+## Base Sepolia Testnet
+
+| Network | Contract Name       | Contract Address                                    |
+|---------|---------------------|-----------------------------------------------------|
+| BASE    | UniswapV2Factory    | `0x15165a529F1310F1a361cbDbcf1f4b222212bd88`          |
+| BASE    | UniswapV2Router02   | `0x548625e4184F59d1AFCe7cbe67A67d5D9eF39029`          |
+| BASE    | WETH                | `0x4200000000000000000000000000000000000006`          |
+| BASE    | INIT_CODE_HASH      | `0x4dc90378a435b2d29be9cf9cc915f9d7c193234f478d6845a429befe95cbaf2d` |
+| BASE    | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
+
+## Optimism Sepolia Testnet
+
+| Network | Contract Name       | Contract Address                                    |
+|---------|---------------------|-----------------------------------------------------|
+| Optimism | UniswapV2Factory    | `0x15165a529F1310F1a361cbDbcf1f4b222212bd88`          |
+| Optimism | UniswapV2Router02   | `0x548625e4184F59d1AFCe7cbe67A67d5D9eF39029`          |
+| Optimism | WETH                | `0x4200000000000000000000000000000000000006`          |
+| Optimism | INIT_CODE_HASH      | `0xe635782caf8b443275c6be440769e3f060625a0605531680ed730e58f43739a5` |
+| Optimism | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
+
+## Blast Network Smart Contract Addresses
+
+| Network   | Contract Name       | Contract Address                                    |
+|-----------|---------------------|-----------------------------------------------------|
+| Blast     | UniswapV2Factory    | `0x15165a529F1310F1a361cbDbcf1f4b222212bd88`          |
+| Blast     | UniswapV2Router02   | `0x548625e4184F59d1AFCe7cbe67A67d5D9eF39029`          |
+| Blast     | WETH                | `0x4200000000000000000000000000000000000023`          |
+| Blast     | INIT_CODE_HASH      | `0xe635782caf8b443275c6be440769e3f060625a0605531680ed730e58f43739a5` |
+| Blast     | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
+
 ## Contributing
 
 If you find any discrepancies, please contribute by submitting a pull request or opening an issue. This repository thrives on community contributions to keep the information accurate and up-to-date.
