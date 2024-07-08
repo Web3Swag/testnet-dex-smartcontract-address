@@ -73,7 +73,7 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | Blast     | INIT_CODE_HASH      | `0xe635782caf8b443275c6be440769e3f060625a0605531680ed730e58f43739a5` |
 | Blast     | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
 
-# Amoy Testnet (ChainId: 80002)
+## Amoy Testnet (ChainId: 80002)
 
 | Network | Contract Name       | Contract Address                                    |
 |---------|---------------------|-----------------------------------------------------|
@@ -83,7 +83,7 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | Amoy    | INIT_CODE_HASH      | `0x4dc90378a435b2d29be9cf9cc915f9d7c193234f478d6845a429befe95cbaf2d` |
 | Amoy    | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
 
-# Arbitrum Sepolia Testnet (ChainId: 421614)
+## Arbitrum Sepolia Testnet (ChainId: 421614)
 
 | Network   | Contract Name       | Contract Address                                    |
 |-----------|---------------------|-----------------------------------------------------|
@@ -93,7 +93,7 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | Arbitrum  | INIT_CODE_HASH      | `0xf26a87fb4c576443912d3fba4644785245a9f66d50baaf6982475c7348463e53` |
 | Arbitrum  | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
 
-# Linea Sepolia Testnet (ChainId: 59141)
+## Linea Sepolia Testnet (ChainId: 59141)
 
 | Network | Contract Name       | Contract Address                                    |
 |---------|---------------------|-----------------------------------------------------|
