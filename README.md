@@ -2,7 +2,7 @@
 
 Welcome to the smart contract address reference for the Web3Swag. This repository is designed to provide developers with quick and easy access to essential smart contract addresses used for building and testing decentralized applications (dApps) on the various testnet.
 
-## ETH Sepolia Testnet
+## ETH Sepolia Testnet (ChainId: 11155111)
 
 | Network | Contract Name       | Contract Address                                    |
 |---------|---------------------|-----------------------------------------------------|
@@ -12,7 +12,7 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | Sepolia | INIT_CODE_HASH      | `0x1a6f9e6e30154255053fb2530e9fbc2b70121513dcd40fdbef417181aae8ea4e` |
 | Sepolia | Multicall           | `0xCcA665012f37CA32F912E98409432B3fD4f23D08`          |
 
-## ETH Holesky Testnet
+## ETH Holesky Testnet (ChainId: 17000)
 
 | Network | Contract Name       | Contract Address                                    |
 |---------|---------------------|-----------------------------------------------------|
@@ -23,7 +23,7 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | Holesky | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
 
 
-## Binance Smart Chain (BSC) Testnet
+## Binance Smart Chain (BSC) Testnet (ChainId: 97)
 
 | Network | Contract Name       | Contract Address                                    |
 |---------|---------------------|-----------------------------------------------------|
@@ -33,7 +33,7 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | BSC     | INIT_CODE_HASH      | `0x4dc90378a435b2d29be9cf9cc915f9d7c193234f478d6845a429befe95cbaf2d` |
 | BSC     | Multicall           | `0x07e576A55b80c5D12F4dA946238Fa945f8c42f2E`          |
 
-## AVAX Fuji Testnet
+## AVAX Fuji Testnet (ChainId: 43113)
 
 | Network | Contract Name       | Contract Address                                    |
 |---------|---------------------|-----------------------------------------------------|
@@ -43,7 +43,7 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | AVAX    | INIT_CODE_HASH      | `0x4dc90378a435b2d29be9cf9cc915f9d7c193234f478d6845a429befe95cbaf2d` |
 | AVAX    | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
 
-## Base Sepolia Testnet
+## Base Sepolia Testnet (ChainId: 84532)
 
 | Network | Contract Name       | Contract Address                                    |
 |---------|---------------------|-----------------------------------------------------|
@@ -53,7 +53,7 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | BASE    | INIT_CODE_HASH      | `0x4dc90378a435b2d29be9cf9cc915f9d7c193234f478d6845a429befe95cbaf2d` |
 | BASE    | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
 
-## Optimism Sepolia Testnet
+## Optimism Sepolia Testnet (ChainId: 11155420)
 
 | Network | Contract Name       | Contract Address                                    |
 |---------|---------------------|-----------------------------------------------------|
@@ -63,7 +63,7 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | Optimism | INIT_CODE_HASH      | `0xe635782caf8b443275c6be440769e3f060625a0605531680ed730e58f43739a5` |
 | Optimism | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
 
-## Blast Network Smart Contract Addresses
+## Blast Sepolia Testnet (ChainId: 168587773)
 
 | Network   | Contract Name       | Contract Address                                    |
 |-----------|---------------------|-----------------------------------------------------|
@@ -72,6 +72,37 @@ Welcome to the smart contract address reference for the Web3Swag. This repositor
 | Blast     | WETH                | `0x4200000000000000000000000000000000000023`          |
 | Blast     | INIT_CODE_HASH      | `0xe635782caf8b443275c6be440769e3f060625a0605531680ed730e58f43739a5` |
 | Blast     | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
+
+# Amoy Testnet (ChainId: 80002)
+
+| Network | Contract Name       | Contract Address                                    |
+|---------|---------------------|-----------------------------------------------------|
+| Amoy    | UniswapV2Factory    | `0x15165a529f1310f1a361cbdbcf1f4b222212bd88`          |
+| Amoy    | UniswapV2Router02   | `0x548625e4184F59d1AFCe7cbe67A67d5D9eF39029`          |
+| Amoy    | WETH                | `0x360ad4f9a9A8EFe9A8DCB5f461c4Cc1047E1Dcf9`          |
+| Amoy    | INIT_CODE_HASH      | `0x4dc90378a435b2d29be9cf9cc915f9d7c193234f478d6845a429befe95cbaf2d` |
+| Amoy    | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
+
+# Arbitrum Sepolia Testnet (ChainId: 421614)
+
+| Network   | Contract Name       | Contract Address                                    |
+|-----------|---------------------|-----------------------------------------------------|
+| Arbitrum  | UniswapV2Factory    | `0x15165a529F1310F1a361cbDbcf1f4b222212bd88`          |
+| Arbitrum  | UniswapV2Router02   | `0x548625e4184F59d1AFCe7cbe67A67d5D9eF39029`          |
+| Arbitrum  | WETH                | `0x980B62Da83eFf3D4576C647993b0c1D7faf17c73`          |
+| Arbitrum  | INIT_CODE_HASH      | `0xf26a87fb4c576443912d3fba4644785245a9f66d50baaf6982475c7348463e53` |
+| Arbitrum  | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
+
+# Linea Sepolia Testnet (ChainId: 59141)
+
+| Network | Contract Name       | Contract Address                                    |
+|---------|---------------------|-----------------------------------------------------|
+| Linea   | UniswapV2Factory    | `0x15165a529F1310F1a361cbDbcf1f4b222212bd88`          |
+| Linea   | UniswapV2Router02   | `0x548625e4184F59d1AFCe7cbe67A67d5D9eF39029`          |
+| Linea   | WETH                | `0x10253594A832f967994b44f33411940533302ACb`          |
+| Linea   | INIT_CODE_HASH      | `0xf26a87fb4c576443912d3fba4644785245a9f66d50baaf6982475c7348463e53` |
+| Linea   | Multicall           | `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`          |
+
 
 ## Contributing
 
